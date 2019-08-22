@@ -1,0 +1,9 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+# config/routes.yaml
+
+
+Fiche_Contact:
+  path:       /Fiche_Contact
+  controller: App\Controller\Fiche_ContactController::index
